@@ -73,9 +73,6 @@ vendor/lib/rfsa/adsp/misound_res_headphone.bin
 vendor/lib/rfsa/adsp/misound_res_spk.bin
 vendor/lib/rfsa/adsp/misound_res_spk4ch.bin
 
-# Audio policy
-# vendor/etc/seccomp_policy/c2audio.vendor.base-arm64.policy
-
 # Audio Firmware
 vendor/firmware/BH-cs35l41-dsp1-spk-cali.bin
 vendor/firmware/BH-cs35l41-dsp1-spk-prot.bin
