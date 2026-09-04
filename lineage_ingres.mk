@@ -7,10 +7,10 @@
 # Inherit from ingres device
 $(call inherit-product, device/xiaomi/ingres/device.mk)
 
-# Inherit from common lineage configuration
-$(call inherit-product, vendor/lineage/config/common_full_phone.mk)
+# Inherit from common Halcyon configuration
+$(call inherit-product, vendor/halcyon/config/common.mk)
 
-PRODUCT_NAME := lineage_ingres
+PRODUCT_NAME := halcyon_ingres
 PRODUCT_DEVICE := ingres
 PRODUCT_MANUFACTURER := Xiaomi
 PRODUCT_BRAND := Redmi
