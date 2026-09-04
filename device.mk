@@ -23,11 +23,7 @@ PRODUCT_PACKAGES += \
     FrameworksResIngres \
     SystemUIResIngres \
     ApertureResIngres \
-    NfcResIngres
-
-# Powershare
-PRODUCT_PACKAGES += \
-    vendor.lineage.powershare-service.default
+    NfcResIngre
 
 # Soong namespaces
 PRODUCT_SOONG_NAMESPACES += \
